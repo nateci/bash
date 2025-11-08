@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "inode.h": "c",
+        "assert.h": "c",
+        "blocks.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "directory.h": "c",
+        "slist.h": "c",
+        "stat.h": "c",
+        "typeinfo": "c",
+        "types.h": "c",
+        "fcntl.h": "c"
+    },
+    "makefile.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
